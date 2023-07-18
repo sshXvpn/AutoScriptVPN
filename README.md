@@ -35,4 +35,6 @@ XRAY TROJAN TCP PORT 443 (BETA)<br/>
 
 ### INSTALLATION KEY?? ASAP CEK UPDATE [SSHXVPN](https://www.youtube.com/channel/UC_AVhwRRYHU3dAblPMGbFOw)
 
+## OTHER FEATURES
+Other FEATURES will added asap, next update
 </div>
