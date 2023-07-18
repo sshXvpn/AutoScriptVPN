@@ -16,6 +16,7 @@
 ## INSTALLATION
 * VERSION V23 V1.0 (BETA)   : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/V1.0)
 * VERSION V23 V1.3.1 (BETA) : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/v1.3.1)
+* VERSION V23 V1.3.2 (BETA) : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/V1.3.2)
 
   <hr/>
   
