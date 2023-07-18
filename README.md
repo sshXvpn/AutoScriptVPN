@@ -36,7 +36,7 @@ XRAY TROJAN TCP PORT 443 (BETA)<br/>
 ### INSTALLATION KEY : [GET INSTALL KEY HERE](https://youtu.be/xgvN4fGxYGI)
 
 INSTALL KEY ON VIDEO<br/>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xgvN4fGxYGI/sddefault.jpg)](https://www.youtube.com/watch?v=xgvN4fGxYGI)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/image.png)](https://www.youtube.com/watch?v=xgvN4fGxYGI)
 
 
 
