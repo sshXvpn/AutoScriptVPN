@@ -1,9 +1,13 @@
-<center>
+<div style="text-align:center">
 
 # ALL AUTOSCRIPT BY [DOTYCAT](https://t.me/dotycat)
 
 ## SCRIPT V23 
-![Image Description](https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/Screenshot%202023-07-18%20182931.png)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/Screenshot%202023-07-18%20182931.png" alt="Image Description">
+</div>
+
 #### INSTALLATION
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/install.sh && chmod +x install.sh && sed -i -e 's/\r$//' install.sh && screen -S install ./install.sh
 </code></pre>
@@ -26,4 +30,4 @@ XRAY TROJAN TCP PORT 443 (BETA)<br/>
 
 ### INSTALLATION KEY?? ASAP CEK UPDATE [SSHXVPN](https://www.youtube.com/channel/UC_AVhwRRYHU3dAblPMGbFOw)
 
-</center>
+</div>
