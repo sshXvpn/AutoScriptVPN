@@ -9,4 +9,17 @@ Script By    : Dotycat telegram [@dotycat](https://t.me/dotycat)<br/>
 Website      : [https://www.dotycat.com](https://www.dotycat.com)<br/>
 Youtube      : [sshXvpn](https://www.youtube.com/channel/UC_AVhwRRYHU3dAblPMGbFOw)<br/>
 
+## FEATURES
+OPENVPN TCP PORT 1194 UDP 2200 & SSL <br/>
+SSH WEBSOCKET PORT 443/80<br/>
+UDP CUSTOM PORT 1-2888 (BETA)<br/>
+SLOWDNS NEWMETA PORT 53 (OFF)<br/>
+XRAY VMESS WS PORT 443/80<br/>
+XRAY VLESS WS PORT 443/80<br/>
+XRAY VLESS XTLS/TCP PORT 443<br/>
+XRAY TROJAN WS PORT 443/80<br/>
+XRAY TROJAN TCP PORT 443 (BETA)<br/>
+
+## INSTALATION KEY?? ASAP CEK UPDATE [SSHXVPN](https://www.youtube.com/channel/UC_AVhwRRYHU3dAblPMGbFOw)https://www.youtube.com/channel/UC_AVhwRRYHU3dAblPMGbFOw
+
 
