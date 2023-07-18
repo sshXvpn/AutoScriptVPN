@@ -33,7 +33,11 @@ XRAY VLESS XTLS/TCP PORT 443<br/>
 XRAY TROJAN WS PORT 443/80<br/>
 XRAY TROJAN TCP PORT 443 (BETA)<br/>
 
-### INSTALLATION KEY?? ASAP CEK UPDATE [SSHXVPN](https://www.youtube.com/channel/UC_AVhwRRYHU3dAblPMGbFOw)
+### INSTALLATION KEY : [GET INSTALL KEY HERE](https://youtu.be/xgvN4fGxYGI)
+
+INSTALL KEY ON VIDEO<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgvN4fGxYGI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## OTHER FEATURES
 Other FEATURES will added asap, next update
