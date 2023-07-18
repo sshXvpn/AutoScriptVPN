@@ -14,8 +14,8 @@
 <br/><a href="https://www.digitalocean.com/?refcode=16a7f50a28a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 ## INSTALLATION
-* VERSION V23 V1.O   : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/V1.0)
-* VERSION V23 V1.3.1 : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/v1.3.1)
+* VERSION V23 V1.0 (BETA)   : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/V1.0)
+* VERSION V23 V1.3.1 (BETA) : [CLICK HERE](https://github.com/sshXvpn/AutoScriptVPN/tree/main/V23/v1.3.1)
 
   <hr/>
   
