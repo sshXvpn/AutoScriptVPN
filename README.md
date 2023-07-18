@@ -36,7 +36,8 @@ XRAY TROJAN TCP PORT 443 (BETA)<br/>
 ### INSTALLATION KEY : [GET INSTALL KEY HERE](https://youtu.be/xgvN4fGxYGI)
 
 INSTALL KEY ON VIDEO<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xgvN4fGxYGI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xgvN4fGxYGI/0.jpg)](https://www.youtube.com/watch?v=xgvN4fGxYGI)
+
 
 
 ## OTHER FEATURES
