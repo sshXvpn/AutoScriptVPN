@@ -35,9 +35,9 @@ XRAY VLESS XTLS/TCP PORT 443<br/>
 XRAY TROJAN WS PORT 443/80<br/>
 XRAY TROJAN TCP PORT 443 (BETA)<br/>
 
-### INSTALLATION KEY : [GET INSTALL KEY HERE](https://youtu.be/xgvN4fGxYGI)
+### INSTALLATION KEY : [GET FREE INSTALL KEY HERE](https://youtu.be/xgvN4fGxYGI)
 
-INSTALL KEY ON VIDEO<br/>
+* INSTALL KEY ON VIDEO<br/>
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/image.png)](https://www.youtube.com/watch?v=xgvN4fGxYGI)
 
 
