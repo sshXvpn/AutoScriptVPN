@@ -4,6 +4,8 @@
 
 ## SCRIPT V23 
 
+#### TESTED ON LINUX VPS DEBIAN 10
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/Screenshot%202023-07-18%20182931.png" alt="Image Description">
 </div>
