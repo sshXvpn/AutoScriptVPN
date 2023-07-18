@@ -4,12 +4,15 @@
 
 ## SCRIPT V23 
 
-## TESTED ON 
- * LINUX VPS DEBIAN 10
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/Screenshot%202023-07-18%20182931.png" alt="Image Description">
 </div>
+
+## TESTED ON 
+ * LINUX VPS DEBIAN 10
+
+GRT FREE $100 FREE CREADIT ON
+<a href="https://www.digitalocean.com/?refcode=16a7f50a28a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 #### INSTALLATION
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/sshXvpn/AutoScriptVPN/main/V23/install.sh && chmod +x install.sh && sed -i -e 's/\r$//' install.sh && screen -S install ./install.sh
